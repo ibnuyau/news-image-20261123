@@ -1,8 +1,8 @@
 # Sum up 23 November's world news in one image
 
-[![make.fun competition](https://make.fun/bounty/news-image-20261123/badge/competition)](https://make.fun/bounty/news-image-20261123)
-[![make.fun rank](https://make.fun/bounty/news-image-20261123/badge/rank)](https://make.fun/bounty/news-image-20261123)
-[![make.fun reward](https://make.fun/bounty/news-image-20261123/badge/reward)](https://make.fun/bounty/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/ibnuyau/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/ibnuyau/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 A one-page newspaper front page summing up the world's news of Monday 23 November 2026, drawn by `gen.py` (Python + PIL) in the layout of the 22 November edition: a navy masthead, a large date title, a red subtitle line, a row of big-number statistics, a coloured region bar, a UTC timeline, three illustrated lead stories, twelve small illustrated stories, a dotted world map with a numbered list of 21 more stories, a date-check box and a footer. 36 stories in all, every one first reported on 23 November 2026.
 
